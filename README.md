@@ -1,5 +1,10 @@
 # -Euro Exchange Rate Analysis-
 This project aims to analyze the exchange rates of the euro against three major currencies: China, the United States, and Russia. The project provides a comprehensive analysis of the historical exchange rate data, allowing users to gain insights into the fluctuations and trends of the euro against these currencies.
+![e1](https://github.com/MuskanSalmani/-Euro-exchange-rate-analysis-US-China-Russia-/assets/96484516/8c5588f5-47d0-4724-8a06-dccac570a7d5)
+![e2](https://github.com/MuskanSalmani/-Euro-exchange-rate-analysis-US-China-Russia-/assets/96484516/360bcb24-3b0d-46c7-9760-b7629490fa5f)
+![e3](https://github.com/MuskanSalmani/-Euro-exchange-rate-analysis-US-China-Russia-/assets/96484516/02d6cc8c-5ded-4401-b038-ba5416b66b50)
+![e4](https://github.com/MuskanSalmani/-Euro-exchange-rate-analysis-US-China-Russia-/assets/96484516/8b050726-e414-4572-b186-0d83347d44f3)
+![e5](https://github.com/MuskanSalmani/-Euro-exchange-rate-analysis-US-China-Russia-/assets/96484516/b14b7a8f-5b24-4190-aa3b-7260cbc647fe)
 
 ![e6](https://github.com/MuskanSalmani/-Euro-exchange-rate-analysis-US-China-Russia-/assets/96484516/3a123ead-37b4-4983-b1df-2af968acd6a8)
 
